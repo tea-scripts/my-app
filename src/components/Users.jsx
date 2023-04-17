@@ -1,6 +1,6 @@
 import { IconAccessible } from '@tabler/icons-react';
 
-const allUsers = ['John', 'Paul', 'Gab'];
+const allUsers = ['Andy', 'Kirby', 'Gab'];
 
 const Users = () => {
   return (
