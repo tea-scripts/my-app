@@ -10,7 +10,7 @@ const Users = () => {
           const lastName = 'ShakeAndBake';
           return (
             <li className="list-item" key={user}>
-              {user} {lastName}
+              {user}
               <span>{<IconAccessible />}</span>
             </li>
           );
